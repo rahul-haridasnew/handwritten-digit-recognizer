@@ -19,8 +19,15 @@ This project uses the **K-Nearest Neighbors** algorithm to classify handwritten 
 - Prediction & evaluation
 - Visualization of results
 
+## 🖼️ Output Example
+
+![Digit Prediction Output](download.png)
+
 ## 🚀 How to Run
 
 ```bash
 pip install -r requirements.txt
 python digit_recognizer.py
+
+
+
